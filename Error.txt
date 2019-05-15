@@ -1,0 +1,3 @@
+// First Connecction to Artists for Testing
+Fatal error: Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'artists_vision' in C:\xampp\htdocs\readartists.php:21 Stack trace: #0 C:\xampp\htdocs\readartists.php(21): PDO->__construct('mysql:host=loca...', 'root', '') #1 {main} thrown in C:\xampp\htdocs\readartists.php on line 21
+id	email	firstname	lastname	password
